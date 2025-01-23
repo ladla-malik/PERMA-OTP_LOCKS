@@ -27,7 +27,7 @@ Warning 🚦 This Tool Formates (Permanent WhatsApp Otp Lock) So think and Use.
 * `apt-get upgrade -y`
 * `pkg install python -y`
 * `pkg install git -y`
-* `git clone https://github.com/mohsin091143/PERMA-OTP_LOCKS.git `
+* `git clone https://github.com/ladla-malik/PERMA-OTP_LOCKS.git `
 * `cd PERMA-OTP_LOCKS`
 * `pip install requests`
 * `pip install rich`
@@ -48,7 +48,7 @@ Warning 🚦 This Tool Formates (Permanent WhatsApp Otp Lock) So think and Use.
  
 ``(Tap To Redirect)``
 
-[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://t.me/Ladla_Malik)
+[![Github](https://img.shields.io/badge/WHATSAPP-WACHANNAL-orange?style=for-the-badge&logo=telegram)](https://whatsapp.com/channel/0029VaahtfyIiRp2w1s5D22U)
 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
 
